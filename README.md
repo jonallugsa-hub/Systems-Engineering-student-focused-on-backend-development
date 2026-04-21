@@ -1,4 +1,4 @@
-<img width="886" height="650" alt="image" src="https://github.com/user-attachments/assets/0effe9b0-447e-4ef8-a1c6-2198905f98df" /># Systems-Engineering-student-focused-on-backend-development
+# Systems-Engineering-student-focused-on-backend-development
 Software Developer Portfolio – Systems Engineering student focused on backend development, system architecture, and cloud technologies.
 
 
