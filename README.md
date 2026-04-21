@@ -208,14 +208,6 @@ El sistema se accede mediante SPA o aplicación móvil que consume un API Gatewa
 
 ---
 
-### 🟩 6.3 Component Diagram | Diagrama de componentes
-
-📌 Insert diagram here:
-
-![C4 Components](./img/c4-component.png)
-
----
-
 ## 🧾 7. Audit Design | Diseño de auditoría
 
 - Independent database per service  
